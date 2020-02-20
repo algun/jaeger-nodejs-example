@@ -1,0 +1,23 @@
+{
+  "name": "jaeger-nodejs-example",
+  "version": "1.0.0",
+  "description": "An example to setup a multi-microservice nodejs with opentracing and jaeger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opentracing",
+    "jaeger",
+    "nodejs"
+  ],
+  "author": "algun.t.akgunduz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jaeger-client": "^3.17.2",
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "opentracing": "^0.14.4"
+  }
+}
