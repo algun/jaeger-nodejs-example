@@ -14,7 +14,7 @@
   "author": "algun.t.akgunduz@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "jaeger-client": "^3.17.2",
     "koa": "^2.11.0",
     "koa-router": "^8.0.8",
